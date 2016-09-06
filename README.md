@@ -1,11 +1,9 @@
-# Graph Calculator using HTML5
+# Graph Calculator using HTML5 and Javascript
 This web application helps you to find the curve of any mathematical equation and expression. The project was done when I was learning how to use Canvas in HTML5 and Math.js Library.
 
-<br>
 
 <img src="screenshots/screenshot.png" alt="screenshot"/>
 
-<br>
 
 <h2>Learning</h2>
 Keys I learnt from the screencast and while building this project:
